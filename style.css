@@ -1,0 +1,23 @@
+body
+{
+    color: yellow;
+    background: pink
+}
+
+.heading
+{
+    width: 84%;
+    font-size: 22px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: lightblue;
+}
+
+#camera
+{
+    border: 4px dashed orange;
+    width: 356px;
+    height: 302px;
+}
